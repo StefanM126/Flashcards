@@ -1,0 +1,88 @@
+Navedi definiciju operacija V i P kod semafora S.
+Kako se izvodi detekcija medjusobnog blokiranja?
+Zone jednokorisnicke dodele memorije?
+Moguce organizacije podataka za upravljanjem pristupom datoteka
+Izraz za minimalni deo vremena R za prikupljanje slobodne memorije:
+Koje je resenje neogranicene inverzije prioriteta,koje je dato unutar rmateorije?
+Dugacka formula sta su Hn I Hi
+Tri osnovna tipa multriprogramskog režima:
+Tabele kod ulaza-izlaza
+Dva opšta pristupa relokacionom problemu:
+Šta je ključ sloga?
+Dve centralne ideje CPP-a:
+Napisati formulu za računanje vremena odziva zadataka ako su poznata najduža vremena izvršenja Ci i periode Ti svih zadataka?
+Navesti API sprege kod RTEMS-a?
+Tehnike za borbu protiv medjusobnog blokiranja procesa:
+Tehnike preslikavanja virtuelne u realnu adresu
+Koraci obrade otklonjive greške UI
+Funkcije sistema za rukovanje datotekama:
+Kada se aperiodičnom serveru puni budžet i šta se radi kada se budžet isprazni?
+Kako se u RMA teoriji rešava problem gomilanja vremena izvršavanja zbog UI radnji?
+Dat je skup od 3 nezavisna RMA zadatak t1, t2 ,t3 sa osobinama: C1 = 20 ms, C2 = 30 ms, C3 = 40 ms T1 = 80ms, T2 = 180ms, T3 = 200ms Ako su krajnji rokovi zadataka jednaki njihovim periodama, da li je sistem rasporediv i zašto?
+Definicija procesa:
+Algoritmi planiranja procesa:
+Strategije upravljanja memorijom:
+Operacije nad datotekama
+Šta je zadatak, a šta aplikacija u realnom vremenu:
+Šta se radi kad postoji konstantno kašnjenje u RMA?
+Kako se računa vreme odziva zadatka ako je dato Bi, Ci i kašnjenje S.
+Algoritmi rasporedjivanja kod RTEMS-a:
+Navesti nedostatke za svakp pd rešeoa kritične sekcije.
+Navedi i objasni polja stavke TPS kpd segmentirane dodele memorije.
+Čemu služi glavni, a čemu sporedni broj UI uređaja na OS Linux Dopuniti rečenice.
+Šta je kpeficijent blpka sa stanpvišta komponente za rukpvaonje infpormacijama?
+Ako u sistemu postoji puno zadataka, koliko je maksimalno iskorišćenje CPU za RMA, a koliko za EDF algoritam raspoređivanja?
+Po MCP (Mode Change Protocol) trajanje promene radnog režima je ograničeno većim od sledeća dva broja (dopuniti):
+Neka je ti zadatak koji meoa prioritet i neka su vremena Bi1=2ms, Bi2=5ms i Bi3=3ms vremena njegovog blokiraoa, koje izazivaju drugi zadaci. Kolika je vrednost Bi koju treba uzeti prilikom računanja vremena odziva ti?
+Neka je dat skup od tri RM zadatka {t1, t2, t3}, sa sledećim odobinama C1=20ms, C2=35ms, C3=40ms, T1=50ms, T2=100ms, T3=200ms, B1=10ms, B2=10ms. Izračunati vreme odziva za svaki zadatak. Da li je sistem rasporediv ako su krajoi rokovi zadataka jednaki oihovim periodama?
+Koje opcije čekaoa ima RTEMS zadatak u slučaju prijema više dpgađaja?
+Navesti nedostatke za svaki od rešenja kritične sekcije.
+Navesti modele smene konteksta koje podržava multitasking opisan u knjizi.
+Navesti razloge zbog koji OS Linux nije RTOS (Real-Time OS).
+UI radnje se realizju kroz saradnju tri asinhrona procesa:
+Šta je kritična sekcija programskog koda?
+Navesti neophodne uslove za međusobno blokiraoe procesa:
+Kako se u PERC platformi za realno vreme rešava sinhronizacija zadataka, a kako vremenska kontrola?
+Kada se po MCP podiže plafon prioriteta semafora ako je zaključan, a kada ako je otključan?
+Napisati formulu za računaoe vremena odziva zadatka ti ako su poznata najduža vremena izvršeoa Ci, vremena blokiraoa Bi i periode Ti svih zadataka, kao i vreme smene zadatka S:
+Neka je dat skup od tri nezavisna RM zadataka {t1, t2, t3}, sa sledećim odobinama: C1=20ms, C2=30ms, C3=40ms, T1=100ms, T2=150ms, T3=200ms, B1=10ms, B2=15ms. Ako su krajoi rokovi zadataka jednaki oihovim periodama, da li je sistem rasporediv? Zašto?
+Šta radi RTLinux emulator kad OS Linux zabraouje prekid? Šta radi kad dođe do fizičkog prekida?
+Navedi zadatke sprežnih modula UIJ (DIM)
+Glavni resursi operativnih sistema:
+Klasifikacija OS prema vrsti primene:
+Opstenamenski OS imaju sledece rezime rada
+Dva tipa prekida:
+OS za rad u realnom vremenu
+Operacije nad procesima:
+Procesi su konkurentni ili paralelni
+Signalizacija izmedju procesa:
+Aktiviranje rasporedjivaca:
+Tri osnovna koraka u koriscenju RAPID RMA su:
+Dimenzionisati memoriju sistema u kom ima 1MB statickih podataka, brzina dodele/oslobadjanja dinamickih podataka je 200KB/s, sakupljac slobodnih memorijskih zona svake sekunde radi 100ms.
+Prekidi tipa paznje se javljaju u sledecim uslovima:
+Koje memorijske zone postoje kod proste jednokorisnicke dodele memorije?
+Funkcije komponente za rukovanje memorijom su:
+UI osnovne operacije:
+Nacini dodele memorije:
+Neka je dat skup zadataka sa sledecim osobinama. Izracunati vreme odziva zadatka t3. Da li je t3 rasporediv?
+Tehnike preslikavanja virtuelne adrese u realnu
+Izbegavanje medjusobng blokiranja se postize kojim algoritmom?
+Tabele potrebne kod stranicenja:
+Izgled virtuelne adrese i elementa tabele preslikavanja stranica kod stranicenja:
+Strategije premestanja stranica:
+Tipovi UI uredjaja:
+Sta je datoteka?
+Sta je slog, a sta polje?
+Sta je blok?
+Virtuelna memorija datoteke je:
+Kad se sporadicnom serveru puni budzet?
+Elemenat kataloga sadrzi:
+Kontrolni blok datoteke sadrzi:
+Tabele koje su potrebne za rukovanje datotekama:
+Sta sve obezbedjuje logicki deo File System-a?
+Vrste aktivnosti prema blokiranju su:
+Koje dve strukture File System koristi za komunikaciju sa korisnikom?
+Tipovi datoteka:
+Neka imamo tri zadatka t1,t2,t3, gde su prioriteti dati u sledecem poretku p1 > p2 > p3 i neka imamo tri resursa X, Y i Z. ODrediti plafone prioriteta resursa X, Y, Z ako znamo da u toku rada zadatak t1 koristi resurs X, dok zadaci t2 i t3 koriste Y i Z.
+Navesti i objasniti polja stavke TPS kod segmentirane dodele memorije.
+Tabele kod UI
