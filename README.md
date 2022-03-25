@@ -1,9 +1,9 @@
 #### Flashcards
 ---
-**Building**
+**Building:**
 $ gcc flashcards.c -o flashcards
 
-**Running**
+**Running:**
 $ ./flashcards
 
 **Workflow**
